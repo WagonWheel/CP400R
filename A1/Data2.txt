@@ -1,0 +1,13 @@
+Edible
+Shape:nominal,Color:nominal,Odor:ordinal,Edible:nominal
+C,B,1,Yes
+D,B,1,Yes
+D,W,1,Yes
+D,W,2,Yes
+C,B,2,Yes
+D,B,2,No
+D,G,2,No
+C,U,2,No
+C,B,3,No
+C,W,3,No
+D,W,3,No
