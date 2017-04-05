@@ -1,0 +1,11 @@
+Shape
+Class:nominal,Size:nominal,Color:nominal,Shape:nominal
+A,Small,Yellow,Round
+A,Big,Yellow,Round
+A,Big,Red,Round
+A,Small,Red,Round
+B,Small,Black,Round
+B,Big,Black,Cube
+B,Big,Yellow,Cube
+B,Big,Black,Round
+B,Small,Yellow,Cube
